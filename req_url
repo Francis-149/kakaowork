@@ -1,0 +1,2 @@
+  curl -X GET https://api.kakaowork.com/v1/users.list \
+   -H "Authorization: Bearer {9232539a.f3c1f3158a2b4cf6af900b1e46627bdb}"
